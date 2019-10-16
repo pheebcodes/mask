@@ -1,0 +1,22 @@
+{
+	"name": "@chancedickson/mask",
+	"version": "1.0.0",
+	"main": "mask.cjs.js",
+	"module": "mask.esm.js",
+	"repository": "git://github.com/chancedickson/mask.git",
+	"publishConfig": {
+		"registry": "https://npm.pkg.github.com/"
+	},
+	"scripts": {
+		"build": "rollup -c",
+		"test": "ava"
+	},
+	"author": "Chance Dickson <me@chancedickson.com>",
+	"license": "Parity-6.0.0",
+	"description": "Simple library that uses ES6 Proxies for simple Bitmask definitions",
+	"devDependencies": {
+		"ava": "^2.4.0",
+		"esm": "^3.2.25",
+		"rollup": "^1.24.0"
+	}
+}

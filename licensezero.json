@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "licensezero": [
+    {
+      "agentSignature": "c1af2d79f4f6b2c85c71271e9d720201d3b6188677a6dc10e01c4850b2a50db48292f4c840b16fead2256192d2f8b821d4f7e1e08ec13d799dda676823b96e08",
+      "license": {
+        "homepage": "https://github.com/chancedickson/mask",
+        "jurisdiction": "US-TN",
+        "name": "Chance Dickson",
+        "projectID": "21ccaa71-a46a-4e91-82b5-81a47ff2a0d0",
+        "publicKey": "98fec4e8f1c69bffac797b9dde66481570a1c8b2818e2c78b6bfc68101eba47b",
+        "terms": "prosperity",
+        "version": "2.0.0"
+      },
+      "licensorSignature": "48f2c3cc2b1d5ce6123ebe5d3db849b401846e77d30fab94233296560df2a7c90f3e1efd6b0e26454e355dec824c40335e00f12fcf70a5c070cee4a6cb62f602"
+    }
+  ]
+}
