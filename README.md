@@ -1,6 +1,6 @@
 # @chancedickson/mask
 
-A easy library using ES6 Proxies for streamlining Bitmask definitions.
+An easy library using ES6 Proxies for streamlining Bitmask definitions.
 
 ## MaskFactory
 
