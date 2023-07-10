@@ -1,0 +1,5 @@
+src/
+.editorconfig
+.prettierrc.toml
+ava.config.js
+rollup.config.js
